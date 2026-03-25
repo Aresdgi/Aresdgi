@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20soy%20Ares!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Desarrollador+Web+en+formaci%C3%B3n+%F0%9F%9A%80;Aprendiendo+HTML%2C+CSS+%26+JavaScript+%F0%9F%92%BB;Estudiante+en+4GeeksAcademy+%26+OpenBootcamp+%F0%9F%8E%93;Cada+d%C3%ADa+un+nuevo+reto+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack+%F0%9F%9A%80;HTML%2C+CSS+%26+JavaScript+%F0%9F%92%BB;4GeeksAcademy+%26+OpenBootcamp+%F0%9F%8E%93;Cada+d%C3%ADa+un+nuevo+reto+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,10 +12,10 @@
 
 ```js
 const ares = {
-  rol:        "Estudiante de Desarrollo Web",
+  rol:        "Desarrollador Web Full Stack",
   bootcamps:  ["4GeeksAcademy", "OpenBootcamp"],
   aprendiendo: ["HTML", "CSS", "JavaScript", "Git & GitHub"],
-  objetivo:   "Convertirme en desarrollador Full Stack 💪",
+  objetivo:   "Construir proyectos que importen 💪",
   hobbies:    ["Programar", "Resolver retos", "Aprender algo nuevo cada día"],
 };
 ```
