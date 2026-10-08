@@ -31,7 +31,7 @@ Encaje es la herramienta con la que busco trabajo y, a la vez, mi proyecto princ
   </picture></a>
   <a href="https://github.com/Aresdgi/mirror-my-iphone"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-mirror-my-iphone-dark.svg">
-    <img alt="mirror-my-iphone: fork reforzado para controlar el iPhone desde el Mac y usarlo desde agentes por MCP." src="assets/card-mirror-my-iphone-light.svg" width="32%">
+    <img alt="mirror-my-iphone: Proyecto para controlar controlar el iPhone desde el Mac y usarlo desde agentes por MCP." src="assets/card-mirror-my-iphone-light.svg" width="32%">
   </picture></a>
   <a href="https://github.com/Aresdgi/lovable-astro-migration"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-lovable-astro-migration-dark.svg">
