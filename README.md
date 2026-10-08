@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Ares, desarrollador de aplicaciones con LLMs. Carta de la Bahía de Cádiz con la ruta de un proyecto: idea, spec, plan, agentes, QA y tests en verde." src="assets/hero-light.svg" width="100%">
+  <img alt="Ares, AI Engineer. Carta de la Bahía de Cádiz con la ruta de un proyecto: idea, spec, plan, agentes, QA y tests en verde." src="assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
