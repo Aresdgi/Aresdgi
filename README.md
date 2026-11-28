@@ -15,12 +15,9 @@ Antes de programar trabajé en ventas, atención al cliente y soporte técnico, 
 
 ## Ahora mismo
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/encaje-dark.svg">
-  <img alt="Encaje, en construcción. Flujo: ofertas, ingesta, prefiltro, extracción con LLM, verificación de citas, decisión por código y borrador con LLM." src="assets/encaje-light.svg" width="100%">
-</picture>
-
-Encaje es la herramienta con la que busco trabajo y, a la vez, mi proyecto principal: Python, FastAPI y SQLite, evaluada contra un conjunto de ofertas etiquetadas a mano y comparada con un filtro de palabras clave. El repo será público al cerrar el primer hito.
+- Manteniendo [garmin_mcp](https://github.com/Aresdgi/garmin_mcp), mi fork mejorado del MCP de Garmin Connect: builders de entrenamientos, catálogo de más de 1500 ejercicios y búsqueda bilingüe ES/EN.
+- Haciendo webs para negocios de la Bahía de Cádiz con Atlante Studio.
+- Buscando mi primer puesto como AI engineer junior: remoto, o presencial/híbrido en Andalucía.
 
 ## Proyectos
 
@@ -84,7 +81,7 @@ I build applications that use LLMs to do real work: agents that split tasks betw
 
 Before coding I worked in sales, customer service and technical support, and through Atlante Studio I build websites for local businesses.
 
-- **Encaje** (in progress): the tool I use to find a job. It fetches offers, extracts requirements with an LLM, decides in code whether they fit my profile and drafts applications where every claim is backed by a real fact. Python, FastAPI and SQLite, evaluated against a hand-labeled set of offers.
+- [**garmin_mcp**](https://github.com/Aresdgi/garmin_mcp): my enhanced fork of the Garmin Connect MCP server - AI workout builders, a 1500+ exercise catalog and bilingual ES/EN exercise search.
 - [**unattended-dev**](https://github.com/Aresdgi/unattended-dev): turns an idea into a self-building project with small tasks, protected tests and cross-provider agent QA.
 - [**mirror-my-iphone**](https://github.com/Aresdgi/mirror-my-iphone): security-hardened fork to control an iPhone from a Mac and let AI agents use it via MCP.
 - [**lovable-astro-migration**](https://github.com/Aresdgi/lovable-astro-migration): AI skill to migrate Lovable projects to Astro without losing the design.
